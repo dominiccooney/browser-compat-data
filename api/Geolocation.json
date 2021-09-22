@@ -128,7 +128,8 @@
               "version_added": "9"
             },
             "oculus": {
-              "version_added": "≤5.0"
+              "version_added": "≤5.0",
+              "notes": "Oculus Browser does not provide location data. This method never invokes the success callback."
             },
             "opera": {
               "version_added": "10.6"
@@ -179,7 +180,8 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "≤5.0"
+              "version_added": "≤5.0",
+              "notes": "Oculus Browser does not provide location data. This method never invokes the success callback."
             },
             "opera": {
               "version_added": "37"
