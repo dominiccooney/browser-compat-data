@@ -232,7 +232,8 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "15.0"
+              "version_added": "15.0",
+              "notes": "Oculus Browser cannot scan NFC tags. This returns a Promise which rejects with a DOMException."
             },
             "opera": {
               "version_added": false
@@ -283,7 +284,8 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "15.0"
+              "version_added": "15.0",
+              "notes": "Oculus Browser cannot write NFC tags. This returns a Promise which rejects with a DOMException."
             },
             "opera": {
               "version_added": false

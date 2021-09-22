@@ -3382,7 +3382,8 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "≤5.0"
+              "version_added": "≤5.0",
+              "notes": "This API is present but sharing always fails. This returns a Promise which is always rejected."
             },
             "opera": {
               "version_added": "75"
@@ -4050,7 +4051,7 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "8.0"
+              "version_added": "7.0"
             },
             "opera": {
               "version_added": false

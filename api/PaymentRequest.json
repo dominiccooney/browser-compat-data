@@ -26,7 +26,8 @@
             "version_added": false
           },
           "oculus": {
-            "version_added": "≤5.0"
+            "version_added": "≤5.0",
+            "notes": "This API is present but handling payment requests is not supported.",
           },
           "opera": {
             "version_added": "47"
@@ -891,7 +892,8 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "≤5.0"
+              "version_added": "≤5.0",
+              "notes": "This API returns a Promise that is always rejected with a NotSupportedError."
             },
             "opera": {
               "version_added": "47"
