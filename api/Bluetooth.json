@@ -54,7 +54,8 @@
             "version_added": false
           },
           "oculus": {
-            "version_added": "≤5.0"
+            "version_added": "≤5.0",
+            "notes": "This API is present but does not support connecting to Bluetooth devices."
           },
           "opera": [
             {
@@ -121,7 +122,8 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "≤5.0"
+              "version_added": "≤5.0",
+              "notes": "This always resolves with false."
             },
             "opera": {
               "version_added": "43"
@@ -250,7 +252,8 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "≤5.0"
+              "version_added": "≤5.0",
+              "notes": "This event is never dispatched by the browser."
             },
             "opera": {
               "version_added": "43"
@@ -302,7 +305,7 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "≤5.0"
+              "version_added": false
             },
             "opera": {
               "version_added": "43"
@@ -354,7 +357,8 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "≤5.0"
+              "version_added": "≤5.0",
+              "notes": "With valid arguments this rejects with a DOMException that BLE is not available."
             },
             "opera": {
               "version_added": "43"
