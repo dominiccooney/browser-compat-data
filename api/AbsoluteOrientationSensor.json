@@ -24,7 +24,7 @@
             "version_added": false
           },
           "oculus": {
-            "version_added": "6.0"
+            "version_added": false
           },
           "opera": {
             "version_added": "54"
@@ -76,7 +76,7 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "6.0"
+              "version_added": false
             },
             "opera": {
               "version_added": "54"
