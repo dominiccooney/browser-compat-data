@@ -129,7 +129,7 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "7.0"
+              "version_added": false
             },
             "opera": {
               "version_added": false
@@ -181,7 +181,7 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "7.0"
+              "version_added": false
             },
             "opera": {
               "version_added": false

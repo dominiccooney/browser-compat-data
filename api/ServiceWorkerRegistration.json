@@ -234,7 +234,7 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "≤5.0"
+              "version_added": false
             },
             "opera": {
               "version_added": "27"
@@ -727,7 +727,7 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "≤5.0"
+              "version_added": false
             },
             "opera": {
               "version_added": "27"
@@ -777,7 +777,7 @@
                 "version_added": false
               },
               "oculus": {
-                "version_added": "≤5.0"
+                "version_added": false
               },
               "opera": {
                 "version_added": "32"
@@ -827,7 +827,7 @@
                 "version_added": false
               },
               "oculus": {
-                "version_added": "≤5.0"
+                "version_added": false
               },
               "opera": {
                 "version_added": "39"
@@ -877,7 +877,7 @@
                 "version_added": false
               },
               "oculus": {
-                "version_added": "≤5.0"
+                "version_added": false
               },
               "opera": {
                 "version_added": "31"
@@ -927,7 +927,7 @@
                 "version_added": false
               },
               "oculus": {
-                "version_added": "≤5.0"
+                "version_added": false
               },
               "opera": {
                 "version_added": "43"
@@ -977,7 +977,7 @@
                 "version_added": false
               },
               "oculus": {
-                "version_added": "≤5.0"
+                "version_added": false
               },
               "opera": {
                 "version_added": "37"
@@ -1027,7 +1027,7 @@
                 "version_added": false
               },
               "oculus": {
-                "version_added": "≤5.0"
+                "version_added": false
               },
               "opera": {
                 "version_added": "34"
@@ -1077,7 +1077,7 @@
                 "version_added": false
               },
               "oculus": {
-                "version_added": "≤5.0"
+                "version_added": false
               },
               "opera": {
                 "version_added": "32"
