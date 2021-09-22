@@ -25,7 +25,7 @@
           },
           "oculus": {
             "version_added": "16.0",
-            "notes": "This interface is present but XRSystem.requestSession does not support the depth-sensing option."            
+            "notes": "The depth-sensing session feature is not supported."
           },
           "opera": {
             "version_added": "76"

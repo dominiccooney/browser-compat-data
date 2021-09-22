@@ -21,7 +21,8 @@
             "version_added": false
           },
           "oculus": {
-            "version_added": "6.0"
+            "version_added": "6.0",
+            "notes": "This API is present but it never produces a reading."
           },
           "opera": {
             "version_added": "54"

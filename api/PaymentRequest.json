@@ -27,7 +27,7 @@
           },
           "oculus": {
             "version_added": "≤5.0",
-            "notes": "This API is present but handling payment requests is not supported.",
+            "notes": "This API is present but handling payment requests is not supported."
           },
           "opera": {
             "version_added": "47"
