@@ -25,6 +25,9 @@
           "ie": {
             "version_added": "8"
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "12"
           },
@@ -74,6 +77,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "47"
             },
@@ -120,6 +126,9 @@
               "version_added": "4"
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -171,6 +180,9 @@
             "ie": {
               "version_added": "8"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "≤12.1"
             },
@@ -219,6 +231,9 @@
             },
             "ie": {
               "version_added": "8"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1"
@@ -269,6 +284,9 @@
             "ie": {
               "version_added": "8"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "≤12.1"
             },
@@ -317,6 +335,9 @@
             },
             "ie": {
               "version_added": "10"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1"
@@ -367,6 +388,9 @@
             "ie": {
               "version_added": "8"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "≤12.1"
             },
@@ -415,6 +439,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": true
             },
             "opera": {
               "version_added": "12"
@@ -466,6 +493,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": false
             },
@@ -512,6 +542,9 @@
               "version_added": "4"
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -564,6 +597,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": false
             },
@@ -612,6 +648,9 @@
               "version_removed": "79"
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -664,6 +703,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": false
             },
@@ -710,6 +752,9 @@
               "version_added": "4"
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -762,6 +807,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": false
             },
@@ -808,6 +856,9 @@
               "version_added": "4"
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -859,6 +910,9 @@
             "ie": {
               "version_added": "8"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "12"
             },
@@ -907,6 +961,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1"
@@ -960,6 +1017,9 @@
                 "The property returns a <a href='https://developer.mozilla.org/docs/Web/API/DOMStringList'><code>DOMStringList</code></a>.",
                 "<code>Text</code> is returned instead of <code>text/plain</code>"
               ]
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1",

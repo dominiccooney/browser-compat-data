@@ -35,6 +35,9 @@
             "version_added": "10",
             "prefix": "MS"
           },
+          "oculus": {
+            "version_added": false
+          },
           "opera": {
             "version_added": false
           },

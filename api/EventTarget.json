@@ -29,6 +29,9 @@
           "nodejs": {
             "version_added": "14.5.0"
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "7"
           },
@@ -92,6 +95,9 @@
                 "notes": "Only available from the <code>events</code> module"
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "51"
             },
@@ -212,6 +218,9 @@
               "nodejs": {
                 "version_added": "14.5.0"
               },
+              "oculus": {
+                "version_added": "≤5.0"
+              },
               "opera": {
                 "version_added": true
               },
@@ -265,6 +274,9 @@
                 },
                 "nodejs": {
                   "version_added": "14.5.0"
+                },
+                "oculus": {
+                  "version_added": "≤5.0"
                 },
                 "opera": {
                   "version_added": true
@@ -321,6 +333,9 @@
                 "nodejs": {
                   "version_added": "14.5.0"
                 },
+                "oculus": {
+                  "version_added": "≤5.0"
+                },
                 "opera": {
                   "version_added": "42"
                 },
@@ -376,6 +391,9 @@
                 "nodejs": {
                   "version_added": "14.5.0"
                 },
+                "oculus": {
+                  "version_added": "≤5.0"
+                },
                 "opera": {
                   "version_added": true
                 },
@@ -430,6 +448,9 @@
                 "nodejs": {
                   "version_added": null
                 },
+                "oculus": {
+                  "version_added": "≤5.0"
+                },
                 "opera": {
                   "version_added": null
                 },
@@ -483,6 +504,9 @@
                 },
                 "nodejs": {
                   "version_added": null
+                },
+                "oculus": {
+                  "version_added": "6.0"
                 },
                 "opera": {
                   "version_added": null
@@ -539,6 +563,9 @@
                 "nodejs": {
                   "version_added": false
                 },
+                "oculus": {
+                  "version_added": "16.0"
+                },
                 "opera": {
                   "version_added": "76"
                 },
@@ -593,6 +620,9 @@
               },
               "nodejs": {
                 "version_added": "14.5.0"
+              },
+              "oculus": {
+                "version_added": "≤5.0"
               },
               "opera": {
                 "version_added": "11.6"
@@ -658,6 +688,9 @@
             "nodejs": {
               "version_added": "14.5.0"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "9"
             },
@@ -721,6 +754,9 @@
             "nodejs": {
               "version_added": "14.5.0"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "7"
             },
@@ -773,6 +809,9 @@
               },
               "nodejs": {
                 "version_added": "14.5.0"
+              },
+              "oculus": {
+                "version_added": "≤5.0"
               },
               "opera": {
                 "version_added": true
@@ -831,6 +870,9 @@
               "nodejs": {
                 "version_added": false
               },
+              "oculus": {
+                "version_added": false
+              },
               "opera": {
                 "version_added": true
               },
@@ -886,6 +928,9 @@
               },
               "nodejs": {
                 "version_added": "14.5.0"
+              },
+              "oculus": {
+                "version_added": "≤5.0"
               },
               "opera": {
                 "version_added": "11.6"

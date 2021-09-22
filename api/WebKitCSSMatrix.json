@@ -37,6 +37,9 @@
               "alternative_name": "MSCSSMatrix"
             }
           ],
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "15"
           },

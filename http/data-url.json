@@ -26,6 +26,9 @@
             "version_added": "8",
             "notes": "The maximum size supported is 32kB"
           },
+          "oculus": {
+            "version_added": true
+          },
           "opera": {
             "version_added": "7.2"
           },
@@ -81,6 +84,9 @@
                 "notes": "The maximum size supported is 4GB"
               }
             ],
+            "oculus": {
+              "version_added": true
+            },
             "opera": {
               "version_added": "7.2"
             },
@@ -128,6 +134,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": true
             },
             "opera": {
               "version_added": true
@@ -179,6 +188,9 @@
               "version_added": "9",
               "notes": "The maximum size supported is 4GB"
             },
+            "oculus": {
+              "version_added": true
+            },
             "opera": {
               "version_added": "7.2"
             },
@@ -226,6 +238,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "47"

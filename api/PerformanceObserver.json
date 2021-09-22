@@ -31,6 +31,9 @@
             ],
             "partial_implementation": true
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "39"
           },
@@ -82,6 +85,9 @@
             },
             "nodejs": {
               "version_added": null
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "39"
@@ -137,6 +143,9 @@
               "notes": "Exported from the <code>perf_hooks</code> module",
               "partial_implementation": true
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "39"
             },
@@ -188,6 +197,9 @@
             },
             "nodejs": {
               "version_added": "8.5.0"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "39"
@@ -241,6 +253,9 @@
             "nodejs": {
               "version_added": "8.5.0"
             },
+            "oculus": {
+              "version_added": "6.0"
+            },
             "opera": {
               "version_added": true
             },
@@ -293,6 +308,9 @@
             "nodejs": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": true
             },
@@ -343,6 +361,9 @@
             },
             "nodejs": {
               "version_added": null
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "49"

@@ -65,6 +65,9 @@
             "partial_implementation": true,
             "notes": "The <code>SVGGeometryElement</code> interface itself is not present, but some of its members are available on the <a href='https://developer.mozilla.org/docs/Web/API/SVGPathElement'><code>SVGPathElement</code></a> interface."
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": [
             {
               "version_added": "43"
@@ -202,6 +205,9 @@
               "version_added": "9",
               "partial_implementation": true,
               "notes": "Only supported for <a href='https://developer.mozilla.org/docs/Web/API/SVGPathElement'><code>SVGPathElement</code></a>, not all <code>SVGGeometryElement</code> objects."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": [
               {
@@ -342,6 +348,9 @@
               "partial_implementation": true,
               "notes": "Only supported for <a href='https://developer.mozilla.org/docs/Web/API/SVGPathElement'><code>SVGPathElement</code></a>, not all <code>SVGGeometryElement</code> objects."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": [
               {
                 "version_added": "43"
@@ -439,6 +448,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "20"
             },
@@ -487,6 +499,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "20"
@@ -568,6 +583,9 @@
             ],
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": [
               {

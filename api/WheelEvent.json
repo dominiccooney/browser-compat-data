@@ -23,6 +23,9 @@
           "ie": {
             "version_added": "9"
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "15"
           },
@@ -72,6 +75,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -120,6 +126,9 @@
             },
             "ie": {
               "version_added": "9"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -171,6 +180,9 @@
               "version_added": "9",
               "notes": "IE9 supports an old draft of the spec where this value was a <code>long</code> instead of a <code>double</code>."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "18"
             },
@@ -220,6 +232,9 @@
             "ie": {
               "version_added": "9",
               "notes": "IE9 supports an old draft of the spec where this value was a <code>long</code> instead of a <code>double</code>."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "18"
@@ -271,6 +286,9 @@
               "version_added": "9",
               "notes": "IE9 supports an old draft of the spec where this value was a <code>long</code> instead of a <code>double</code>."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "18"
             },
@@ -319,6 +337,9 @@
             "ie": {
               "version_added": null
             },
+            "oculus": {
+              "version_added": true
+            },
             "opera": {
               "version_added": null
             },
@@ -365,6 +386,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -413,6 +437,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -459,6 +486,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"

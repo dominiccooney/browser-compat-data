@@ -27,6 +27,9 @@
           "ie": {
             "version_added": false
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "27"
           },
@@ -76,6 +79,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "27"
             },
@@ -124,6 +130,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "6.0"
+            },
             "opera": {
               "version_added": "62"
             },
@@ -170,6 +179,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "13.0"
             },
             "opera": {
               "version_added": "73"
@@ -221,6 +233,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "27"
             },
@@ -270,6 +285,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": true
             },
             "opera": {
               "version_added": false
@@ -321,6 +339,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "27"
             },
@@ -371,6 +392,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "46"
             },
@@ -420,6 +444,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "27"
@@ -539,6 +566,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "9.0"
+            },
             "opera": {
               "version_added": false
             },
@@ -588,6 +618,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "27"
@@ -640,6 +673,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "27"
             },
@@ -690,6 +726,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "27"
             },
@@ -736,6 +775,9 @@
               },
               "ie": {
                 "version_added": false
+              },
+              "oculus": {
+                "version_added": "≤5.0"
               },
               "opera": {
                 "version_added": "32"
@@ -784,6 +826,9 @@
               "ie": {
                 "version_added": false
               },
+              "oculus": {
+                "version_added": "≤5.0"
+              },
               "opera": {
                 "version_added": "39"
               },
@@ -830,6 +875,9 @@
               },
               "ie": {
                 "version_added": false
+              },
+              "oculus": {
+                "version_added": "≤5.0"
               },
               "opera": {
                 "version_added": "31"
@@ -878,6 +926,9 @@
               "ie": {
                 "version_added": false
               },
+              "oculus": {
+                "version_added": "≤5.0"
+              },
               "opera": {
                 "version_added": "43"
               },
@@ -924,6 +975,9 @@
               },
               "ie": {
                 "version_added": false
+              },
+              "oculus": {
+                "version_added": "≤5.0"
               },
               "opera": {
                 "version_added": "37"
@@ -972,6 +1026,9 @@
               "ie": {
                 "version_added": false
               },
+              "oculus": {
+                "version_added": "≤5.0"
+              },
               "opera": {
                 "version_added": "34"
               },
@@ -1018,6 +1075,9 @@
               },
               "ie": {
                 "version_added": false
+              },
+              "oculus": {
+                "version_added": "≤5.0"
               },
               "opera": {
                 "version_added": "32"
@@ -1069,6 +1129,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "36"
             },
@@ -1118,6 +1181,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "27"
@@ -1242,6 +1308,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "6.0"
+            },
             "opera": {
               "version_added": true
             },
@@ -1291,6 +1360,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "27"

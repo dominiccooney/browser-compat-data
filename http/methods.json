@@ -24,6 +24,9 @@
             "ie": {
               "version_added": true
             },
+            "oculus": {
+              "version_added": true
+            },
             "opera": {
               "version_added": true
             },
@@ -71,6 +74,9 @@
               "version_added": true
             },
             "ie": {
+              "version_added": true
+            },
+            "oculus": {
               "version_added": true
             },
             "opera": {
@@ -122,6 +128,9 @@
             "ie": {
               "version_added": true
             },
+            "oculus": {
+              "version_added": true
+            },
             "opera": {
               "version_added": true
             },
@@ -169,6 +178,9 @@
               "version_added": true
             },
             "ie": {
+              "version_added": true
+            },
+            "oculus": {
               "version_added": true
             },
             "opera": {
@@ -220,6 +232,9 @@
             "ie": {
               "version_added": true
             },
+            "oculus": {
+              "version_added": true
+            },
             "opera": {
               "version_added": true
             },
@@ -267,6 +282,9 @@
               "version_added": true
             },
             "ie": {
+              "version_added": true
+            },
+            "oculus": {
               "version_added": true
             },
             "opera": {
@@ -318,6 +336,9 @@
             "ie": {
               "version_added": true
             },
+            "oculus": {
+              "version_added": true
+            },
             "opera": {
               "version_added": true
             },
@@ -366,6 +387,9 @@
             },
             "ie": {
               "version_added": null
+            },
+            "oculus": {
+              "version_added": false
             },
             "opera": {
               "version_added": null

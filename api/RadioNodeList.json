@@ -23,6 +23,9 @@
           "ie": {
             "version_added": true
           },
+          "oculus": {
+            "version_added": true
+          },
           "opera": {
             "version_added": true
           },
@@ -69,6 +72,9 @@
               "version_added": "33"
             },
             "ie": {
+              "version_added": true
+            },
+            "oculus": {
               "version_added": true
             },
             "opera": {

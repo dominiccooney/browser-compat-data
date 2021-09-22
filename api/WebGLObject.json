@@ -22,6 +22,9 @@
           "ie": {
             "version_added": "11"
           },
+          "oculus": {
+            "version_added": false
+          },
           "opera": {
             "version_added": false
           },

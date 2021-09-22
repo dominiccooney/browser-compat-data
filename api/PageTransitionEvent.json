@@ -23,6 +23,9 @@
           "ie": {
             "version_added": "11"
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "15"
           },
@@ -70,6 +73,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -120,6 +126,9 @@
             "ie": {
               "version_added": "11",
               "notes": "The <code>persisted</code> property is known to be buggy in Internet Explorer. It is advised to check if <code>window.performance.navigation.type == 2</code> as well."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"

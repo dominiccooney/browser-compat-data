@@ -20,6 +20,9 @@
           "ie": {
             "version_added": false
           },
+          "oculus": {
+            "version_added": "6.0"
+          },
           "opera": {
             "version_added": "54"
           },
@@ -65,6 +68,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "6.0"
             },
             "opera": {
               "version_added": "54"

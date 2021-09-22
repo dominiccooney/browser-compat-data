@@ -37,6 +37,9 @@
           "ie": {
             "version_added": "11"
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": [
             {
               "version_added": "18"
@@ -117,6 +120,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -168,6 +174,9 @@
             "ie": {
               "version_added": "11",
               "notes": "Only works on Windows 8+."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -221,6 +230,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -268,6 +280,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "49"
@@ -321,6 +336,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -373,6 +391,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -424,6 +445,9 @@
             "ie": {
               "version_added": "11",
               "notes": "Only works on Windows 8+."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -478,6 +502,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -529,6 +556,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -579,6 +609,9 @@
             "ie": {
               "version_added": "11",
               "notes": "Only works on Windows 8+."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -632,6 +665,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -684,6 +720,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -731,6 +770,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "49"
@@ -783,6 +825,9 @@
             "ie": {
               "version_added": "11",
               "notes": "Only works on Windows 8+."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"

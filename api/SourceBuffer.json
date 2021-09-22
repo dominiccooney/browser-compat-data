@@ -38,6 +38,9 @@
             "version_added": "11",
             "notes": "Only works on Windows 8+."
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": [
             {
               "version_added": "18"
@@ -110,6 +113,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -161,6 +167,9 @@
             "ie": {
               "version_added": "11",
               "notes": "Only works on Windows 8+."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -219,6 +228,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": true
+            },
             "opera": {
               "version_added": false
             },
@@ -269,6 +281,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": false
             },
@@ -318,6 +333,9 @@
             "ie": {
               "version_added": "11",
               "notes": "Only works on Windows 8+."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -370,6 +388,9 @@
             "ie": {
               "version_added": "11",
               "notes": "Only works on Windows 8+."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -516,6 +537,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -565,6 +589,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "6.0"
             },
             "opera": {
               "version_added": null
@@ -618,6 +645,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -668,6 +698,9 @@
             "ie": {
               "version_added": "11",
               "notes": "Only works on Windows 8+."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "30"
@@ -720,6 +753,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "30"
             },
@@ -770,6 +806,9 @@
             "ie": {
               "version_added": "11",
               "notes": "Only works on Windows 8+."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "30"
@@ -822,6 +861,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "30"
             },
@@ -872,6 +914,9 @@
             "ie": {
               "version_added": "11",
               "notes": "Only works on Windows 8+."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "30"
@@ -924,6 +969,9 @@
             "ie": {
               "version_added": "11",
               "notes": "Only works on Windows 8+."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -982,6 +1030,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": true
+            },
             "opera": {
               "version_added": false
             },
@@ -1029,6 +1080,9 @@
               "version_added": false
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -1083,6 +1137,9 @@
               "version_added": "11",
               "notes": "Only works on Windows 8+."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -1131,6 +1188,9 @@
               "version_added": false
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -1182,6 +1242,9 @@
             "ie": {
               "version_added": "11",
               "notes": "Only works on Windows 8+."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"

@@ -23,6 +23,9 @@
           "ie": {
             "version_added": "5.5"
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "8"
           },
@@ -70,6 +73,9 @@
             },
             "ie": {
               "version_added": "5.5"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1"
@@ -120,6 +126,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": false
             },
@@ -168,6 +177,9 @@
               "version_added": "54"
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -250,6 +262,9 @@
             "ie": {
               "version_added": "10"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "30"
             },
@@ -299,6 +314,9 @@
             },
             "ie": {
               "version_added": "10"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "30"
@@ -350,6 +368,9 @@
             "ie": {
               "version_added": "10"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "30"
             },
@@ -398,6 +419,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "7.0"
             },
             "opera": {
               "version_added": "64"
@@ -459,6 +483,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "53"
@@ -650,6 +677,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": true
+            },
             "opera": {
               "version_added": true
             },
@@ -698,6 +728,9 @@
             },
             "ie": {
               "version_added": "5.5"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "8"
@@ -810,6 +843,9 @@
             "ie": {
               "version_added": "5.5"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "9"
             },
@@ -887,6 +923,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": false
             },
@@ -938,6 +977,9 @@
             "ie": {
               "version_added": "11"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "11"
             },
@@ -987,6 +1029,9 @@
             "ie": {
               "version_added": "5.5"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "≤12.1"
             },
@@ -1034,6 +1079,9 @@
             },
             "ie": {
               "version_added": "10"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "12"
@@ -1098,6 +1146,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "7.0"
+            },
             "opera": {
               "version_added": "64"
             },
@@ -1147,6 +1198,9 @@
             "ie": {
               "version_added": "5.5"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "8"
             },
@@ -1193,6 +1247,9 @@
               },
               "ie": {
                 "version_added": false
+              },
+              "oculus": {
+                "version_added": "≤5.0"
               },
               "opera": {
                 "version_added": "51"
@@ -1247,6 +1304,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "44"
             },
@@ -1295,6 +1355,9 @@
             },
             "ie": {
               "version_added": "11"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "11.6"
@@ -1442,6 +1505,9 @@
             "ie": {
               "version_added": "5.5"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "9.6"
             },
@@ -1502,6 +1568,9 @@
               "partial_implementation": true,
               "notes": "Only supports <code>input</code> of type <code>text</code> and <code>password</code>."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "11.6"
             },
@@ -1557,6 +1626,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "53"
             },
@@ -1605,6 +1677,9 @@
             },
             "ie": {
               "version_added": "5.5"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1"
@@ -1656,6 +1731,9 @@
               "version_removed": "49"
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -1713,6 +1791,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "11",
               "version_removed": "15"
@@ -1766,6 +1847,9 @@
               "version_removed": "49"
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -1823,6 +1907,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "11",
               "version_removed": "15"
@@ -1876,6 +1963,9 @@
               "version_removed": "49"
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -1933,6 +2023,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "11",
               "version_removed": "15"
@@ -1985,6 +2078,9 @@
             "ie": {
               "version_added": "5.5"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "≤12.1"
             },
@@ -2035,6 +2131,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "44"
             },
@@ -2083,6 +2182,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "48"
@@ -2137,6 +2239,9 @@
             "ie": {
               "version_added": "5.5"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "8"
             },
@@ -2185,6 +2290,9 @@
             },
             "ie": {
               "version_added": "5.5"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "8"
@@ -2235,6 +2343,9 @@
             "ie": {
               "version_added": "5.5"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "8"
             },
@@ -2283,6 +2394,9 @@
             },
             "ie": {
               "version_added": "5.5"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "8"
@@ -2333,6 +2447,9 @@
             "ie": {
               "version_added": "5.5"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "8"
             },
@@ -2380,6 +2497,9 @@
             },
             "ie": {
               "version_added": "5.5"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1"
@@ -2429,6 +2549,9 @@
             "ie": {
               "version_added": "5.5"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "≤12.1"
             },
@@ -2477,6 +2600,9 @@
             "ie": {
               "version_added": "5.5"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "≤12.1"
             },
@@ -2524,6 +2650,9 @@
             },
             "ie": {
               "version_added": "5.5"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1"
@@ -2612,6 +2741,9 @@
                 "alternative_name": "mspointercancel"
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "42"
             },
@@ -2699,6 +2831,9 @@
                 "alternative_name": "mspointerdown"
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "42"
             },
@@ -2786,6 +2921,9 @@
                 "alternative_name": "mspointerenter"
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "42"
             },
@@ -2873,6 +3011,9 @@
                 "alternative_name": "mspointerleave"
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "42"
             },
@@ -2960,6 +3101,9 @@
                 "alternative_name": "mspointermove"
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "42"
             },
@@ -3047,6 +3191,9 @@
                 "alternative_name": "mspointerout"
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "42"
             },
@@ -3134,6 +3281,9 @@
                 "alternative_name": "mspointerover"
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "42"
             },
@@ -3183,6 +3333,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "7.0"
             },
             "opera": {
               "version_added": "64"
@@ -3271,6 +3424,9 @@
                 "alternative_name": "mspointerup"
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "42"
             },
@@ -3318,6 +3474,9 @@
             },
             "ie": {
               "version_added": "10"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1"
@@ -3377,6 +3536,9 @@
               "partial_implementation": true,
               "notes": "Returns incorrect value for elements without an explicit tabindex attribute. See <a href='https://developer.microsoft.com/microsoft-edge/platform/issues/4365703/'>issue 4365703</a> for details."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "≤12.1"
             },
@@ -3425,6 +3587,9 @@
             },
             "ie": {
               "version_added": "5.5"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1"
@@ -3475,6 +3640,9 @@
             },
             "ie": {
               "version_added": null
+            },
+            "oculus": {
+              "version_added": "6.0"
             },
             "opera": {
               "version_added": "62"
@@ -3670,6 +3838,9 @@
             "ie": {
               "version_added": null
             },
+            "oculus": {
+              "version_added": "6.0"
+            },
             "opera": {
               "version_added": "62"
             },
@@ -3750,6 +3921,9 @@
             "ie": {
               "version_added": null
             },
+            "oculus": {
+              "version_added": "6.0"
+            },
             "opera": {
               "version_added": "62"
             },
@@ -3827,6 +4001,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"

@@ -30,6 +30,9 @@
           "nodejs": {
             "version_added": "0.10.0"
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "10.5"
           },
@@ -91,6 +94,9 @@
                 "notes": "Throws error when assertion fails."
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "11"
             },
@@ -145,6 +151,9 @@
             },
             "nodejs": {
               "version_added": "8.3.0"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "12"
@@ -201,6 +210,9 @@
             "nodejs": {
               "version_added": "8.3.0"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "11"
             },
@@ -255,6 +267,9 @@
             },
             "nodejs": {
               "version_added": "8.3.0"
+            },
+            "oculus": {
+              "version_added": "6.0"
             },
             "opera": {
               "version_added": "55"
@@ -317,6 +332,9 @@
                 "version_added": "8.0.0"
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "11"
             },
@@ -442,6 +460,9 @@
             "nodejs": {
               "version_added": "0.10.0"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "11"
             },
@@ -504,6 +525,9 @@
                 "notes": "Does not use Logger to log data."
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "11"
             },
@@ -558,6 +582,9 @@
             },
             "nodejs": {
               "version_added": "0.10.0"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "10.5"
@@ -624,6 +651,9 @@
               "nodejs": {
                 "version_added": "0.10.0"
               },
+              "oculus": {
+                "version_added": "≤5.0"
+              },
               "opera": {
                 "version_added": "15"
               },
@@ -680,6 +710,9 @@
             "nodejs": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": false
             },
@@ -729,6 +762,9 @@
                 "version_added": false
               },
               "nodejs": {
+                "version_added": false
+              },
+              "oculus": {
                 "version_added": false
               },
               "opera": {
@@ -783,6 +819,9 @@
             },
             "nodejs": {
               "version_added": "8.5.0"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "11"
@@ -840,6 +879,9 @@
               "version_added": "8.5.0",
               "notes": "Alias for <code>console.group</code>"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "11"
             },
@@ -894,6 +936,9 @@
             },
             "nodejs": {
               "version_added": "8.5.0"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "11"
@@ -950,6 +995,9 @@
             "nodejs": {
               "version_added": "0.10.0",
               "notes": "Alias for <code>console.log</code>"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "10.5"
@@ -1016,6 +1064,9 @@
               "nodejs": {
                 "version_added": true
               },
+              "oculus": {
+                "version_added": "≤5.0"
+              },
               "opera": {
                 "version_added": "15"
               },
@@ -1071,6 +1122,9 @@
             },
             "nodejs": {
               "version_added": "0.10.0"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "10.5"
@@ -1202,6 +1256,9 @@
                 }
               ]
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "11"
             },
@@ -1262,6 +1319,9 @@
                 }
               ]
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "11"
             },
@@ -1316,6 +1376,9 @@
             },
             "nodejs": {
               "version_added": "10.0.0"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "11"
@@ -1372,6 +1435,9 @@
             "nodejs": {
               "version_added": "0.10.0"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "11"
             },
@@ -1427,6 +1493,9 @@
             "nodejs": {
               "version_added": "0.10.0"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "11"
             },
@@ -1481,6 +1550,9 @@
             },
             "nodejs": {
               "version_added": "10.7.0"
+            },
+            "oculus": {
+              "version_added": "6.0"
             },
             "opera": {
               "version_added": "60"
@@ -1542,6 +1614,9 @@
                 }
               ]
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -1596,6 +1671,9 @@
             },
             "nodejs": {
               "version_added": "0.10.0"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "11"
@@ -1652,6 +1730,9 @@
             "nodejs": {
               "version_added": "0.10.0",
               "notes": "Alias for <code>console.error</code>"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "10.5"
@@ -1718,6 +1799,9 @@
               "nodejs": {
                 "version_added": "0.10.0"
               },
+              "oculus": {
+                "version_added": "≤5.0"
+              },
               "opera": {
                 "version_added": "15"
               },
@@ -1772,6 +1856,9 @@
             },
             "nodejs": {
               "version_added": "10.5.0"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1"

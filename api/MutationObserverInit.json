@@ -37,6 +37,9 @@
           "ie": {
             "version_added": "11"
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "15"
           },
@@ -108,6 +111,9 @@
               "version_added": "11",
               "notes": "Internet Explorer requires <code>attributes: true</code> when using <code>attributeFilter</code>. If <code>attributes: true</code> is not present, then Internet Explorer throws a syntax error."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -158,6 +164,9 @@
             },
             "ie": {
               "version_added": "11"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -210,6 +219,9 @@
             "ie": {
               "version_added": "11"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -260,6 +272,9 @@
             },
             "ie": {
               "version_added": "11"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -312,6 +327,9 @@
             "ie": {
               "version_added": "11"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -361,6 +379,9 @@
             "ie": {
               "version_added": "11"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -409,6 +430,9 @@
             },
             "ie": {
               "version_added": "11"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"

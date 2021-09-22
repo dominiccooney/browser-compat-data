@@ -35,6 +35,9 @@
               "notes": "Must be imported from the <code>worker_threads</code> module."
             }
           ],
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "10.6"
           },
@@ -96,6 +99,9 @@
                 "notes": "Must be imported from the <code>worker_threads</code> module."
               }
             ],
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "10.6"
             },
@@ -151,6 +157,9 @@
             "nodejs": {
               "version_added": "10.5.0"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "10.6"
             },
@@ -205,6 +214,9 @@
             },
             "nodejs": {
               "version_added": "10.5.0"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "10.6"

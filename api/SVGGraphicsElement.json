@@ -57,6 +57,9 @@
             "partial_implementation": true,
             "notes": "The <code>SVGGraphicsElement</code> interface itself is not present, but some of its members are available on interfaces that inherit from <code>SVGGraphicsElement</code>."
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": [
             {
               "version_added": "17"
@@ -161,6 +164,9 @@
             "ie": {
               "version_added": "9"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "≤12.1"
             },
@@ -208,6 +214,9 @@
             },
             "ie": {
               "version_added": "9"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1"
@@ -257,6 +266,9 @@
             "ie": {
               "version_added": "9"
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "≤12.1"
             },
@@ -304,6 +316,9 @@
             },
             "ie": {
               "version_added": "9"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "≤12.1"

@@ -146,6 +146,9 @@
             "nodejs": {
               "version_added": true
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -208,6 +211,9 @@
             "nodejs": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -265,6 +271,10 @@
               },
               "nodejs": {
                 "version_added": false
+              },
+              "oculus": {
+                "version_added": "≤5.0",
+                "version_removed": "6.0"
               },
               "opera": {
                 "version_added": "15",
@@ -328,6 +338,9 @@
             "nodejs": {
               "version_added": true
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "19"
             },
@@ -382,6 +395,9 @@
             },
             "nodejs": {
               "version_added": true
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "19"
@@ -438,6 +454,9 @@
             "nodejs": {
               "version_added": true
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "19"
             },
@@ -492,6 +511,9 @@
             },
             "nodejs": {
               "version_added": true
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "19"
@@ -562,6 +584,9 @@
             "nodejs": {
               "version_added": true
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "19"
             },
@@ -616,6 +641,9 @@
             },
             "nodejs": {
               "version_added": true
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "19"
@@ -674,6 +702,9 @@
             "nodejs": {
               "version_added": true
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "19"
             },
@@ -729,6 +760,9 @@
             "nodejs": {
               "version_added": true
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "19"
             },
@@ -783,6 +817,9 @@
             },
             "nodejs": {
               "version_added": true
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "19"
@@ -841,6 +878,9 @@
             "nodejs": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "15"
             },
@@ -898,6 +938,9 @@
             "nodejs": {
               "version_added": true
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "19"
             },
@@ -952,6 +995,9 @@
             },
             "nodejs": {
               "version_added": "7.5.0"
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "38"
@@ -1008,6 +1054,9 @@
             "nodejs": {
               "version_added": true
             },
+            "oculus": {
+              "version_added": "6.0"
+            },
             "opera": {
               "version_added": "58"
             },
@@ -1059,6 +1108,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "15"
@@ -1114,6 +1166,9 @@
             },
             "nodejs": {
               "version_added": true
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "19"

@@ -61,6 +61,9 @@
               ]
             }
           ],
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "10.6"
           },
@@ -118,6 +121,9 @@
               "partial_implementation": true,
               "notes": "Takes an entirely different options object."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "10.6"
             },
@@ -172,6 +178,9 @@
                 "version_added": "12.17.0",
                 "partial_implementation": true,
                 "notes": "ECMAScript modules are enabled for files ending with <code>.mjs</code> and for files ending with <code>.js</code> when the nearest parent <code>package.json</code> file contains a top-level field <code>\"type\"</code> with a value of <code>\"module\"</code>."
+              },
+              "oculus": {
+                "version_added": "9.0"
               },
               "opera": {
                 "version_added": "67"
@@ -285,6 +294,9 @@
               "nodejs": {
                 "version_added": false
               },
+              "oculus": {
+                "version_added": "6.0"
+              },
               "opera": {
                 "version_added": "57"
               },
@@ -339,6 +351,9 @@
               },
               "nodejs": {
                 "version_added": false
+              },
+              "oculus": {
+                "version_added": "9.0"
               },
               "opera": {
                 "version_added": "67"
@@ -399,6 +414,9 @@
               "partial_implementation": true,
               "notes": "Supports the event, but only via Node <code>EventEmitter</code>."
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "10.6"
             },
@@ -455,6 +473,9 @@
             "nodejs": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "47"
             },
@@ -508,6 +529,9 @@
             },
             "nodejs": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "10.6"
@@ -564,6 +588,9 @@
             "nodejs": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "10.6"
             },
@@ -618,6 +645,9 @@
             },
             "nodejs": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "47"
@@ -707,6 +737,9 @@
             "nodejs": {
               "version_added": "10.5.0"
             },
+            "oculus": {
+              "version_added": true
+            },
             "opera": {
               "version_added": "47"
             },
@@ -762,6 +795,9 @@
             "nodejs": {
               "version_added": "10.5.0",
               "notes": "Also takes an optional callback to be executed when the worker has terminated."
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "10.6"

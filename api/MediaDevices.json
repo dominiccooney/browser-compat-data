@@ -23,6 +23,9 @@
           "ie": {
             "version_added": false
           },
+          "oculus": {
+            "version_added": "≤5.0"
+          },
           "opera": {
             "version_added": "30"
           },
@@ -70,6 +73,9 @@
               "version_added": null
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -147,6 +153,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": "≤5.0"
+            },
             "opera": {
               "version_added": "34"
             },
@@ -211,6 +220,9 @@
             "ie": {
               "version_added": false
             },
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "60"
             },
@@ -262,6 +274,9 @@
               "ie": {
                 "version_added": false
               },
+              "oculus": {
+                "version_added": false
+              },
               "opera": {
                 "version_added": null
               },
@@ -311,6 +326,9 @@
             },
             "ie": {
               "version_added": false
+            },
+            "oculus": {
+              "version_added": "≤5.0"
             },
             "opera": {
               "version_added": "40"
@@ -424,6 +442,9 @@
               "ie": {
                 "version_added": false
               },
+              "oculus": {
+                "version_added": "≤5.0"
+              },
               "opera": {
                 "version_added": "40"
               },
@@ -472,6 +493,9 @@
               "version_added": true
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
@@ -528,6 +552,9 @@
               "version_added": false
             },
             "ie": {
+              "version_added": false
+            },
+            "oculus": {
               "version_added": false
             },
             "opera": {
