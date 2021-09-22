@@ -1328,7 +1328,8 @@
               "version_added": false
             },
             "oculus": {
-              "version_added": "16.0"
+              "version_added": "16.0",
+              "notes": "This interface is present but the light estimation feature is not supported."
             },
             "opera": {
               "version_added": false
